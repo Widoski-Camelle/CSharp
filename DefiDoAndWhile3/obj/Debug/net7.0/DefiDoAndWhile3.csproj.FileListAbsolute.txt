@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\DefiDoAndWhile3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\DefiDoAndWhile3.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\DefiDoAndWhile3.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\DefiDoAndWhile3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\bin\Debug\net7.0\DefiDoAndWhile3.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\bin\Debug\net7.0\DefiDoAndWhile3.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\bin\Debug\net7.0\DefiDoAndWhile3.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\bin\Debug\net7.0\DefiDoAndWhile3.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\bin\Debug\net7.0\DefiDoAndWhile3.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\DefiDoAndWhile3.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\refint\DefiDoAndWhile3.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\DefiDoAndWhile3.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\DefiDoAndWhile3.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiDoAndWhile3\obj\Debug\net7.0\ref\DefiDoAndWhile3.dll

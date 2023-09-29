@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DefiDoAndWhile3/1.0.0": {
+        "runtime": {
+          "DefiDoAndWhile3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefiDoAndWhile3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
