@@ -9,7 +9,7 @@ while (validEntry == false)
 
     if (validEntry)
     {
-        if (verifyNumber >= 5 && verifyNumber <= 10 )
+        if (verifyNumber > 5 && verifyNumber < 10 )
             break;
 
         else
