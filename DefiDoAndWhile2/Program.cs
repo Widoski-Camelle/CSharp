@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
 bool validEntry = false;
-string roleChecked = null;
+string roleChecked = "";
 
 while (validEntry == false)
 {
