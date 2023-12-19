@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\CastConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\CastConversion.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\CastConversion.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\CastConversion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\bin\Debug\net7.0\CastConversion.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\bin\Debug\net7.0\CastConversion.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\bin\Debug\net7.0\CastConversion.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\bin\Debug\net7.0\CastConversion.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\bin\Debug\net7.0\CastConversion.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\CastConversion.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\refint\CastConversion.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\CastConversion.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\CastConversion.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\CastConversion\obj\Debug\net7.0\ref\CastConversion.dll
