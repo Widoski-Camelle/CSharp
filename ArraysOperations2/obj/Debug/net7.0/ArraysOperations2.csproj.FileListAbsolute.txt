@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\bin\Debug\net7.0\ArraysOperations2.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\bin\Debug\net7.0\ArraysOperations2.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\bin\Debug\net7.0\ArraysOperations2.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\bin\Debug\net7.0\ArraysOperations2.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\bin\Debug\net7.0\ArraysOperations2.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ArraysOperations2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ArraysOperations2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ArraysOperations2.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ArraysOperations2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ArraysOperations2.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\refint\ArraysOperations2.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ArraysOperations2.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ArraysOperations2.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\ArraysOperations2\obj\Debug\net7.0\ref\ArraysOperations2.dll
