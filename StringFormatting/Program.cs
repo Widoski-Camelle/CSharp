@@ -31,3 +31,9 @@ string yourDiscount = String.Format("You saved {0:C2} off the regular {1:C2} pri
 
 yourDiscount += $"A discount of {((price - salePrice)/price):P2}!"; //inserted
 Console.WriteLine(yourDiscount);
+
+
+
+string input = "Pad this";
+Console.WriteLine(input.PadLeft(12, '-'));
+Console.WriteLine(input.PadRight(12, '-'));
