@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\DefiStringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\DefiStringFormatting.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\DefiStringFormatting.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\DefiStringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\bin\Debug\net7.0\DefiStringFormatting.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\bin\Debug\net7.0\DefiStringFormatting.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\bin\Debug\net7.0\DefiStringFormatting.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\bin\Debug\net7.0\DefiStringFormatting.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\bin\Debug\net7.0\DefiStringFormatting.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\DefiStringFormatting.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\refint\DefiStringFormatting.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\DefiStringFormatting.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\DefiStringFormatting.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiStringFormatting\obj\Debug\net7.0\ref\DefiStringFormatting.dll
