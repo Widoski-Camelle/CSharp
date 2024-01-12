@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\AssistanceMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\AssistanceMethods.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\AssistanceMethods.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\AssistanceMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\bin\Debug\net7.0\AssistanceMethods.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\bin\Debug\net7.0\AssistanceMethods.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\bin\Debug\net7.0\AssistanceMethods.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\bin\Debug\net7.0\AssistanceMethods.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\bin\Debug\net7.0\AssistanceMethods.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\AssistanceMethods.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\refint\AssistanceMethods.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\AssistanceMethods.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\AssistanceMethods.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethods\obj\Debug\net7.0\ref\AssistanceMethods.dll
