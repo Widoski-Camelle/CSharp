@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\bin\Debug\net7.0\AssistanceMethodsPartThree.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\bin\Debug\net7.0\AssistanceMethodsPartThree.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\bin\Debug\net7.0\AssistanceMethodsPartThree.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\bin\Debug\net7.0\AssistanceMethodsPartThree.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\bin\Debug\net7.0\AssistanceMethodsPartThree.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\AssistanceMethodsPartThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\AssistanceMethodsPartThree.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\AssistanceMethodsPartThree.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\AssistanceMethodsPartThree.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\AssistanceMethodsPartThree.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\refint\AssistanceMethodsPartThree.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\AssistanceMethodsPartThree.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\AssistanceMethodsPartThree.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartThree\obj\Debug\net7.0\ref\AssistanceMethodsPartThree.dll
