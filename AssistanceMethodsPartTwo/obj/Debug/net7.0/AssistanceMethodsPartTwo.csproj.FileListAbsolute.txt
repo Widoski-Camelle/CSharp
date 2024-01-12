@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\bin\Debug\net7.0\AssistanceMethodsPartTwo.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\bin\Debug\net7.0\AssistanceMethodsPartTwo.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\bin\Debug\net7.0\AssistanceMethodsPartTwo.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\bin\Debug\net7.0\AssistanceMethodsPartTwo.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\bin\Debug\net7.0\AssistanceMethodsPartTwo.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\AssistanceMethodsPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\AssistanceMethodsPartTwo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\AssistanceMethodsPartTwo.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\AssistanceMethodsPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\AssistanceMethodsPartTwo.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\refint\AssistanceMethodsPartTwo.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\AssistanceMethodsPartTwo.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\AssistanceMethodsPartTwo.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\AssistanceMethodsPartTwo\obj\Debug\net7.0\ref\AssistanceMethodsPartTwo.dll
