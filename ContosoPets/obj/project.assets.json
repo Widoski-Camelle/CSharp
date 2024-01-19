@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\CsharpProjects\\ContosoPets\\ContosoPets.csproj",
-      "projectName": "ContosoPets",
-      "projectPath": "C:\\Users\\hp\\Desktop\\C#\\CsharpProjects\\ContosoPets\\ContosoPets.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\CsharpProjects\\ContosoPets\\Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "C:\\Users\\hp\\Desktop\\C#\\CsharpProjects\\ContosoPets\\Starter.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hp\\Desktop\\C#\\CsharpProjects\\ContosoPets\\obj\\",
       "projectStyle": "PackageReference",
