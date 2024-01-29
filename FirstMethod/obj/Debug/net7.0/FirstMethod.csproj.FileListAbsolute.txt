@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\bin\Debug\net7.0\FirstMethod.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\bin\Debug\net7.0\FirstMethod.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\bin\Debug\net7.0\FirstMethod.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\bin\Debug\net7.0\FirstMethod.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\bin\Debug\net7.0\FirstMethod.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\FirstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\FirstMethod.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\FirstMethod.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\FirstMethod.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\FirstMethod.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\refint\FirstMethod.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\FirstMethod.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\FirstMethod.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\FirstMethod\obj\Debug\net7.0\ref\FirstMethod.dll
