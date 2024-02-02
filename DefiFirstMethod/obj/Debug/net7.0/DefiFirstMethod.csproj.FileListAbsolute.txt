@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\DefiFirstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\DefiFirstMethod.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\DefiFirstMethod.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\DefiFirstMethod.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\bin\Debug\net7.0\DefiFirstMethod.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\bin\Debug\net7.0\DefiFirstMethod.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\bin\Debug\net7.0\DefiFirstMethod.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\bin\Debug\net7.0\DefiFirstMethod.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\bin\Debug\net7.0\DefiFirstMethod.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\DefiFirstMethod.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\refint\DefiFirstMethod.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\DefiFirstMethod.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\DefiFirstMethod.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\DefiFirstMethod\obj\Debug\net7.0\ref\DefiFirstMethod.dll
