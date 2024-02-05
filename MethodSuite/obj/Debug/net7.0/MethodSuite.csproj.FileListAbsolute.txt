@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\bin\Debug\net7.0\MethodSuite.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\bin\Debug\net7.0\MethodSuite.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\bin\Debug\net7.0\MethodSuite.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\bin\Debug\net7.0\MethodSuite.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\bin\Debug\net7.0\MethodSuite.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\MethodSuite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\MethodSuite.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\MethodSuite.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\MethodSuite.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\MethodSuite.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\refint\MethodSuite.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\MethodSuite.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\MethodSuite.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuite\obj\Debug\net7.0\ref\MethodSuite.dll
