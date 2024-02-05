@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\bin\Debug\net7.0\MethodSuiteVariableType.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\bin\Debug\net7.0\MethodSuiteVariableType.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\bin\Debug\net7.0\MethodSuiteVariableType.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\bin\Debug\net7.0\MethodSuiteVariableType.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\bin\Debug\net7.0\MethodSuiteVariableType.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\MethodSuiteVariableType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\MethodSuiteVariableType.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\MethodSuiteVariableType.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\MethodSuiteVariableType.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\MethodSuiteVariableType.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\refint\MethodSuiteVariableType.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\MethodSuiteVariableType.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\MethodSuiteVariableType.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodSuiteVariableType\obj\Debug\net7.0\ref\MethodSuiteVariableType.dll
