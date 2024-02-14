@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\MethodWithParamsDefi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\MethodWithParamsDefi.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\MethodWithParamsDefi.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\MethodWithParamsDefi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\bin\Debug\net7.0\MethodWithParamsDefi.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\bin\Debug\net7.0\MethodWithParamsDefi.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\bin\Debug\net7.0\MethodWithParamsDefi.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\bin\Debug\net7.0\MethodWithParamsDefi.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\bin\Debug\net7.0\MethodWithParamsDefi.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\MethodWithParamsDefi.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\refint\MethodWithParamsDefi.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\MethodWithParamsDefi.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\MethodWithParamsDefi.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodWithParamsDefi\obj\Debug\net7.0\ref\MethodWithParamsDefi.dll
