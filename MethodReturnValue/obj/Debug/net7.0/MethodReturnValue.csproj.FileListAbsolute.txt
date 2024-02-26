@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\bin\Debug\net7.0\MethodReturnValue.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\bin\Debug\net7.0\MethodReturnValue.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\bin\Debug\net7.0\MethodReturnValue.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\bin\Debug\net7.0\MethodReturnValue.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\bin\Debug\net7.0\MethodReturnValue.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\MethodReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\MethodReturnValue.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\MethodReturnValue.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\MethodReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\MethodReturnValue.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\refint\MethodReturnValue.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\MethodReturnValue.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\MethodReturnValue.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnValue\obj\Debug\net7.0\ref\MethodReturnValue.dll
