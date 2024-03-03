@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\bin\Debug\net7.0\MethodReturnArray.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\bin\Debug\net7.0\MethodReturnArray.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\bin\Debug\net7.0\MethodReturnArray.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\bin\Debug\net7.0\MethodReturnArray.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\bin\Debug\net7.0\MethodReturnArray.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\MethodReturnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\MethodReturnArray.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\MethodReturnArray.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\MethodReturnArray.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\MethodReturnArray.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\refint\MethodReturnArray.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\MethodReturnArray.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\MethodReturnArray.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodReturnArray\obj\Debug\net7.0\ref\MethodReturnArray.dll
