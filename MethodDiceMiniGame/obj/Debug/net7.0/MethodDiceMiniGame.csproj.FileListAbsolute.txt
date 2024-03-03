@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\MethodDiceMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\MethodDiceMiniGame.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\MethodDiceMiniGame.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\MethodDiceMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\bin\Debug\net7.0\MethodDiceMiniGame.exe
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\bin\Debug\net7.0\MethodDiceMiniGame.deps.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\bin\Debug\net7.0\MethodDiceMiniGame.runtimeconfig.json
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\bin\Debug\net7.0\MethodDiceMiniGame.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\bin\Debug\net7.0\MethodDiceMiniGame.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\MethodDiceMiniGame.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\refint\MethodDiceMiniGame.dll
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\MethodDiceMiniGame.pdb
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\MethodDiceMiniGame.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\CsharpProjects\MethodDiceMiniGame\obj\Debug\net7.0\ref\MethodDiceMiniGame.dll
