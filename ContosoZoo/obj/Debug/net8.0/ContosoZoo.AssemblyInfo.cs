@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContosoZoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0a4b356191477bc02041ab49d63013cea6e386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+318cf8508a52560cdff43ce3fbe419f191dc28d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContosoZoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContosoZoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
