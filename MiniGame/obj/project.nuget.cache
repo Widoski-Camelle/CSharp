@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lfn8I1VO4f9nsjoLbhOJRLeOw2gW3z/3AFlMPa4S9zqArfX7NPOT+EDIznh4IrtzTSFMp5DBMeE/JqKfU/6rCA==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\MiniGame\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIN AFRICA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\WIN AFRICA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\WIN AFRICA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\WIN AFRICA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
