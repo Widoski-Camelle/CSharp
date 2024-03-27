@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Starter")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MiniGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58dacffa11fd7a04f931a512cbb179e809d94069")]
-[assembly: System.Reflection.AssemblyProductAttribute("Starter")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Starter")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af0a0169b93ebf63be9792587af50d9203ac366c")]
+[assembly: System.Reflection.AssemblyProductAttribute("MiniGame")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MiniGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
