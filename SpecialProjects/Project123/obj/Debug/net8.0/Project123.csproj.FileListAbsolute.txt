@@ -1,0 +1,14 @@
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\bin\Debug\net8.0\Project123.exe
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\bin\Debug\net8.0\Project123.deps.json
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\bin\Debug\net8.0\Project123.runtimeconfig.json
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\bin\Debug\net8.0\Project123.dll
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\bin\Debug\net8.0\Project123.pdb
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\Project123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\Project123.AssemblyInfoInputs.cache
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\Project123.AssemblyInfo.cs
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\Project123.csproj.CoreCompileInputs.cache
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\Project123.dll
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\refint\Project123.dll
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\Project123.pdb
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\Project123.genruntimeconfig.cache
+C:\Users\WIN AFRICA\Desktop\SpecialProjects\Project123\obj\Debug\net8.0\ref\Project123.dll
