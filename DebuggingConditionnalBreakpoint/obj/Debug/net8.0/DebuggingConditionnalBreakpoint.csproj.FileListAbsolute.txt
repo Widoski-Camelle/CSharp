@@ -1,0 +1,14 @@
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\bin\Debug\net8.0\DebuggingConditionnalBreakpoint.exe
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\bin\Debug\net8.0\DebuggingConditionnalBreakpoint.deps.json
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\bin\Debug\net8.0\DebuggingConditionnalBreakpoint.runtimeconfig.json
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\bin\Debug\net8.0\DebuggingConditionnalBreakpoint.dll
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\bin\Debug\net8.0\DebuggingConditionnalBreakpoint.pdb
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\DebuggingConditionnalBreakpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\DebuggingConditionnalBreakpoint.AssemblyInfoInputs.cache
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\DebuggingConditionnalBreakpoint.AssemblyInfo.cs
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\DebuggingConditionnalBreakpoint.csproj.CoreCompileInputs.cache
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\DebuggingConditionnalBreakpoint.dll
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\refint\DebuggingConditionnalBreakpoint.dll
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\DebuggingConditionnalBreakpoint.pdb
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\DebuggingConditionnalBreakpoint.genruntimeconfig.cache
+C:\Users\WIN AFRICA\Desktop\DebuggingConditionnalBreakpoint\obj\Debug\net8.0\ref\DebuggingConditionnalBreakpoint.dll
