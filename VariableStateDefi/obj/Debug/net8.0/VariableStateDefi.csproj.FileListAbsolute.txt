@@ -1,0 +1,14 @@
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\bin\Debug\net8.0\VariableStateDefi.exe
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\bin\Debug\net8.0\VariableStateDefi.deps.json
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\bin\Debug\net8.0\VariableStateDefi.runtimeconfig.json
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\bin\Debug\net8.0\VariableStateDefi.dll
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\bin\Debug\net8.0\VariableStateDefi.pdb
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\VariableStateDefi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\VariableStateDefi.AssemblyInfoInputs.cache
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\VariableStateDefi.AssemblyInfo.cs
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\VariableStateDefi.csproj.CoreCompileInputs.cache
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\VariableStateDefi.dll
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\refint\VariableStateDefi.dll
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\VariableStateDefi.pdb
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\VariableStateDefi.genruntimeconfig.cache
+C:\Users\WIN AFRICA\Desktop\VariableStateDefi\obj\Debug\net8.0\ref\VariableStateDefi.dll
