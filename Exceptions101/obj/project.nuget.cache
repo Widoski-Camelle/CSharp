@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGRYmReS/gO3sw7pckxvwr99BTvnY+PXBVtHWU22jOzggaCs5XYGSw5g+yY72fvOUjbHt8pxjw/S/+X4sm6bFw==",
+  "dgSpecHash": "CJw0gtLXXZxr3MLAJGMN5hctXPuC+IriyzIgwusLS/y+vmhRzgciIrDMVroDRNIMOsJM9ioCioYIYg74ciMJzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WIN AFRICA\\Desktop\\Exceptions101\\Exceptions101.csproj",
+  "projectFilePath": "C:\\CSharp\\Exceptions101\\Exceptions101.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
