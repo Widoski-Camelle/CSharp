@@ -1,0 +1,15 @@
+C:\CSharp\Exceptions102\bin\Debug\net8.0\Exceptions102.exe
+C:\CSharp\Exceptions102\bin\Debug\net8.0\Exceptions102.deps.json
+C:\CSharp\Exceptions102\bin\Debug\net8.0\Exceptions102.runtimeconfig.json
+C:\CSharp\Exceptions102\bin\Debug\net8.0\Exceptions102.dll
+C:\CSharp\Exceptions102\bin\Debug\net8.0\Exceptions102.pdb
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.AssemblyInfoInputs.cache
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.AssemblyInfo.cs
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.csproj.CoreCompileInputs.cache
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.sourcelink.json
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.dll
+C:\CSharp\Exceptions102\obj\Debug\net8.0\refint\Exceptions102.dll
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.pdb
+C:\CSharp\Exceptions102\obj\Debug\net8.0\Exceptions102.genruntimeconfig.cache
+C:\CSharp\Exceptions102\obj\Debug\net8.0\ref\Exceptions102.dll
