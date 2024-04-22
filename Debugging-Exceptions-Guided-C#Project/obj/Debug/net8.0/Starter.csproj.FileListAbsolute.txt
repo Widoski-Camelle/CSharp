@@ -1,0 +1,15 @@
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\bin\Debug\net8.0\Starter.exe
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\bin\Debug\net8.0\Starter.deps.json
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\bin\Debug\net8.0\Starter.dll
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\bin\Debug\net8.0\Starter.pdb
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.sourcelink.json
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.dll
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\refint\Starter.dll
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.pdb
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\CSharp\Debugging-Exceptions-Guided-C#Project\obj\Debug\net8.0\ref\Starter.dll
