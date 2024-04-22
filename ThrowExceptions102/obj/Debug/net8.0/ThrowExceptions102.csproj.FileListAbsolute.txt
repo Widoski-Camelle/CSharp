@@ -1,0 +1,14 @@
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\bin\Debug\net8.0\ThrowExceptions102.exe
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\bin\Debug\net8.0\ThrowExceptions102.deps.json
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\bin\Debug\net8.0\ThrowExceptions102.runtimeconfig.json
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\bin\Debug\net8.0\ThrowExceptions102.dll
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\bin\Debug\net8.0\ThrowExceptions102.pdb
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ThrowExceptions102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ThrowExceptions102.AssemblyInfoInputs.cache
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ThrowExceptions102.AssemblyInfo.cs
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ThrowExceptions102.csproj.CoreCompileInputs.cache
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ThrowExceptions102.dll
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\refint\ThrowExceptions102.dll
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ThrowExceptions102.pdb
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ThrowExceptions102.genruntimeconfig.cache
+C:\Users\WIN AFRICA\Desktop\ThrowExceptions102\obj\Debug\net8.0\ref\ThrowExceptions102.dll
